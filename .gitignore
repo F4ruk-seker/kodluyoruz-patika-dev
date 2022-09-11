@@ -1,18 +1,3 @@
-#libs
-venv/
-.idea/
-#crypo
-__pycache__/
-#api key or x
-#.env
-
-#static and medias
-#static
-#avatar
-media
-graduate.rar
-graduate.zip
-
 # git init
 # git config user.name ""
 # git config user.email ""
